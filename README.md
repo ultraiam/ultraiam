@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ultraiam. Yes my name is IAM
+- 👋 Hi, I’m @ultraiam. Yes my name is iAM
 - 👀 I’m interested in Web and Mobile App Development!
 - 🌱 I’m currently learning from the Complete Web, iOS and Swift Devevelopment course on Udemy by Dr. Angela Yu. 
 - 💞️ I’m looking to collaborate on iOS and Web Apps!
