@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ultraiam. Yes my name is iAM
-- 👀 I’m interested in Web and Mobile/iOS App Development!
+- 👀 I’m mostly interested in FinTech and trading algorithms.
 - 🌱 I taught myself how to code through resources like Dr. Angela Yee's Complete Web Dev Course, AppAcademy.io Open Software Engineering course, and FreeCodeCamp.
-- 💞️ I haven't decided on which discipline of software engineering that I'd like to specialize in, but I am most interested in algorithmic trading models. 
+- 💞️ I haven't decided on which discipline of software engineering that I'd like to specialize in, but I am mostly interested in algorithmic trading models. 
 - 📫 How to reach me: IG or Twitter @ultraiam. 
 
 <!---
