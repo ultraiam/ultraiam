@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ultraiam. Yes my name is iAM
 - 👀 I’m interested in Web and Mobile/iOS App Development!
-- 🌱 I’m self taught from the Complete Web, iOS and Swift Devevelopment course by Dr. Angela Yu and AppAcademy's Open Software Egnineering program.
-- 💞️ I’m looking to collaborate on iOS and Web Apps! In the meantime I'm posting projects from Frontend Mentor, and other personal projects. 
+- 🌱 I taught myself how to code through resources like Dr. Angela Yee's Complete Web Dev Course, AppAcademy.io Open Software Engineering course, and FreeCodeCamp.
+- 💞️ I haven't decided on which discipline of software engineering that I'd like to specialize in, but I am most interested in algorithmic trading models. 
 - 📫 How to reach me: IG or Twitter @ultraiam. 
 
 <!---
